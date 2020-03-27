@@ -27,7 +27,7 @@ SECRET_KEY = 'g!0d6w)z&zi&vcoe_n@u+9&70bkc+0^=og9o3(xd4uw(z1fyid'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["goodpvp90.pythonanywhere.com",]
 
 
 # Application definition
