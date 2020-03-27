@@ -20,7 +20,6 @@ def user_logout(request):
     logout(request)
     return HttpResponseRedirect(reverse('index'))
 
-@logout_required
 def register(request):
 
     registered = False
